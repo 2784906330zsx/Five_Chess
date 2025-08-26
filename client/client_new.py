@@ -32,7 +32,8 @@ game_data = {
     "over": 0,
 }
 
-font2 = "C:/Windows/Fonts/simkai.ttf"
+font1 = None
+font2 = "resources/HarmonyOS_Sans_SC_Regular.ttf"
 font3 = pygame.font.Font(font2, 36)
 
 
